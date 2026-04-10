@@ -1,0 +1,4 @@
+PatientID,Pregnancies,PlasmaGlucose,DiastolicBloodPressure,TricepsThickness,SerumInsulin,BMI,DiabetesPedigree,Age,Diabetic
+1354778,0,171,80,34,23,43.50,1.21,21,0
+1147438,8,92,93,47,46,21.24,0.15,23,0
+1640367,7,115,47,52,56,41.26,0.31,23,0
